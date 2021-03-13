@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Grixi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Adam Tretera🥱
+- ⚛️ React / NextJS / Redux
+- 🔥 Firebase / Firestore 💗
+- 💛 JS / TypeScript 💚
+
 
 <!---
 Grixi/Grixi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
