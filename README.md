@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Tretera🥱
 - ⚛️ React / NextJS / Redux
 - 🔥 Firebase / Firestore 💗
-- 💛 JS / TypeScript 💚
+- 💛 JS / newbie in TypeScript 💚
 
 
 <!---
