@@ -3,6 +3,4 @@
 
 - 🛠  Daily tools **Typescript | React | NextJS | Nest ** 
 
-- 🌱 I’m currently working with **PlanetScale 🪐 FramerMotion  💅 Chrome Extension 🕸️ Stiches 📝** 
-
 - 📫 How to reach me **info@adamtretera.cz**
